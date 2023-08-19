@@ -3,4 +3,5 @@ def tool(var):
     return var.upper()
 
 def toolfirst(var):
+    """upper first str"""
     return var.capitalize()
